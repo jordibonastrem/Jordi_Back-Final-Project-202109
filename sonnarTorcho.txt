@@ -1,0 +1,8 @@
+sonar-scanner.bat -D"sonar.projectKey=DOGGY-BACK" -D"sonar.sources=." -D"sonar.host.url=http://localhost:9000" -D"sonar.login=7098f39dd86c47307752b1ffe9d0694aefecfb0c"
+
+
+
+
+
+
+
